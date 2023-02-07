@@ -9,8 +9,6 @@ define ashish = Character("Ashish", color = "#009900")
 
 label start:
 
- 
-
     scene bg room
 
     show eileen happy
